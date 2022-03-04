@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [opencartSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="opencartTests(failed)">
+    <classes>
+      <class name="com.CK.ecomm.user.test.AccountRegistration">
+        <methods>
+          <include name="test_account_Registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.CK.ecomm.user.test.AccountRegistration -->
+      <class name="com.CK.ecomm.user.test.LoginTest_Opencart">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="test_Login"/>
+        </methods>
+      </class> <!-- com.CK.ecomm.user.test.LoginTest_Opencart -->
+      <class name="com.CK.ecomm.search.test.SearchTest_Opencart">
+        <methods>
+          <include name="testwithStringData"/>
+          <include name="testwithNumberData"/>
+          <include name="testwithSpecialChaacters"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testwithBlankData"/>
+        </methods>
+      </class> <!-- com.CK.ecomm.search.test.SearchTest_Opencart -->
+    </classes>
+  </test> <!-- opencartTests(failed) -->
+</suite> <!-- Failed suite [opencartSuite] -->

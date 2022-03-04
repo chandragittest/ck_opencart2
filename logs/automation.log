@@ -1,0 +1,246 @@
+17:32:24.536 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+17:32:24.946 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+17:32:25.036 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+17:32:25.512 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+17:32:25.592 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+17:32:25.657 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+17:32:25.721 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+17:32:25.782 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+17:32:25.842 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+17:32:25.900 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+17:32:25.949 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+17:32:26.825 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+17:32:31.878 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+17:32:31.878 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+20:06:42.017 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+20:06:42.368 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+20:06:42.450 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+20:06:42.916 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+20:06:42.973 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+20:06:43.020 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+20:06:43.070 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+20:06:43.113 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+20:06:43.154 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+20:06:43.198 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+20:06:43.232 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+20:06:44.016 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+20:06:49.051 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+20:06:49.051 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+20:19:26.833 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+20:19:27.181 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+20:19:27.258 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+20:19:27.787 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+20:19:27.882 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+20:19:27.947 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+20:19:28.017 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+20:19:28.100 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+20:19:28.191 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+20:19:28.290 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+20:19:28.360 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+20:19:29.196 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+20:19:34.233 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+20:19:34.233 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+11:34:52.426 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:34:52.917 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:34:53.014 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:34:53.487 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:34:53.569 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:34:53.638 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:34:53.695 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:34:53.746 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:34:53.807 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:34:53.864 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:34:53.920 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:34:55.052 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:35:00.102 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+11:35:00.102 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+11:40:21.300 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:40:21.726 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:40:21.820 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:40:22.293 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:40:22.368 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:40:22.433 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:40:22.503 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:40:22.565 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:40:22.623 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:40:22.685 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:40:22.737 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:40:23.672 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:40:28.720 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+11:40:28.720 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+11:45:07.461 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:45:07.943 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:45:08.021 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:45:08.663 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:45:08.730 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:45:08.791 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:45:08.858 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:45:08.913 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:45:08.972 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:45:09.031 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:45:09.079 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:45:10.091 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:45:15.141 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+11:45:15.144 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+11:46:14.349 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:46:14.803 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:46:14.908 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:46:15.371 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:46:15.448 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:46:15.515 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:46:15.582 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:46:15.646 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:46:15.711 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:46:15.775 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:46:15.830 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:46:16.721 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:46:33.872 [main] ERROR com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Failed 
+11:55:36.464 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:55:36.891 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:55:36.979 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:55:37.487 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:55:37.561 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:55:37.628 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:55:37.693 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:55:37.752 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:55:37.819 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:55:37.880 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:55:37.939 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:55:38.527 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:55:43.571 [main] ERROR com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Failed 
+11:58:16.225 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+11:58:16.734 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+11:58:16.843 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+11:58:17.302 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+11:58:17.381 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+11:58:17.447 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+11:58:17.515 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+11:58:17.584 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+11:58:17.642 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+11:58:17.712 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+11:58:17.772 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+11:58:18.670 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+11:58:23.712 [main] ERROR com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Failed 
+13:31:02.302 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+13:31:02.800 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+13:31:02.895 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+13:31:03.617 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+13:31:03.694 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+13:31:03.762 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+13:31:03.830 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+13:31:03.905 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+13:31:03.969 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+13:31:04.029 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+13:31:04.081 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+13:31:05.244 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+13:26:54.913 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+13:26:55.350 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+13:26:55.475 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+13:26:55.973 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+13:26:56.066 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+13:26:56.134 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+13:26:56.720 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+13:27:01.778 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:20:26.861 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:20:27.209 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:20:27.325 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:20:27.675 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:20:27.759 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:20:27.816 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:20:28.428 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:20:33.467 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:23:15.792 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:23:16.137 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:23:16.218 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:23:16.584 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:23:16.657 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:23:16.720 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:23:17.391 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:23:22.425 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:24:19.094 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:24:19.569 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:24:19.673 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:24:20.130 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:24:20.206 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:24:20.269 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:24:20.888 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:24:38.072 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:33:25.596 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:33:26.122 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:33:26.197 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:33:26.727 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:33:26.796 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:33:26.854 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:33:27.880 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:33:32.943 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:34:36.727 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:34:37.126 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:34:37.241 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:34:37.665 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:34:37.734 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:34:37.798 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:34:38.382 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:34:43.427 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+19:35:04.614 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+19:35:05.009 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+19:35:05.081 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+19:35:05.520 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+19:35:05.585 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+19:35:05.648 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+19:35:06.194 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+19:35:11.226 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+20:06:51.243 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+20:06:51.615 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+20:06:51.686 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+20:06:52.029 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+20:06:52.101 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+20:06:52.159 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+20:06:52.687 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+20:06:57.724 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+20:11:34.392 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+20:11:34.784 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+20:11:34.858 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+20:11:35.200 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+20:11:35.276 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+20:11:35.337 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+20:11:35.975 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+20:11:41.015 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+20:14:06.244 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Strating RegistrationTest_Opencart
+20:14:06.812 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Home Page Displayed 
+20:14:06.894 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on My Account 
+20:14:07.695 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Register 
+20:14:07.764 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided First Name 
+20:14:07.827 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Last Name 
+20:14:07.888 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Email 
+20:14:07.947 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Telephone 
+20:14:08.012 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Password 
+20:14:08.088 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Provided Confrmed Password 
+20:14:08.140 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Set Privacy Policy 
+20:14:08.947 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Clicked on Continue 
+20:14:13.985 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Account Registration Success 
+20:14:13.985 [main] INFO  com.CK.ecomm.user.test.RegistrationTest_Opencart - Finished RegistrationPage_OpenCart
+20:16:42.256 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+20:16:42.680 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+20:16:42.750 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+20:16:43.083 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+20:16:43.155 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+20:16:43.213 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+20:16:43.790 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+20:16:48.854 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+20:17:55.203 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+20:17:55.585 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+20:17:55.660 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+20:17:56.048 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+20:17:56.116 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+20:17:56.179 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+20:17:56.800 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+20:18:01.850 [main] ERROR com.CK.ecomm.user.test.LoginTest_Opencart - Login Failed 
+20:18:35.987 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Starting TC_002_Login 
+20:18:36.446 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Home Page Displayed 
+20:18:36.520 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on My Account 
+20:18:36.890 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login 
+20:18:36.962 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Email 
+20:18:37.015 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Provided Password 
+20:18:37.968 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Clicked on Login
+20:18:43.046 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart - Login Success 
+20:18:43.048 [main] INFO  com.CK.ecomm.user.test.LoginTest_Opencart -  Finished LoginTest_Opencart 
